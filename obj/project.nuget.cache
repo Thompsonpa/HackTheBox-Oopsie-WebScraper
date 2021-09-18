@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TuxxdJZBklMXa2QRU+w3cQi1Sfmzaj7P9wHf8kXJ0RUBv3jte4D91K5QPXS5dSv/sm+TrsuEUwVQHcyG0IK4tA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\HackTheBox-Oopsie-WebScraper\\WebSiteUrlScrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thomp\\.nuget\\packages\\htmlagilitypack\\1.11.36\\htmlagilitypack.1.11.36.nupkg.sha512"
+  ],
+  "logs": []
+}
